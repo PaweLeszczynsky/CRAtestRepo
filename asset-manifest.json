@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CRAtestRepo/static/css/main.f855e6bc.css",
+    "main.js": "/CRAtestRepo/static/js/main.90a7b14a.js",
+    "static/js/453.d6a90039.chunk.js": "/CRAtestRepo/static/js/453.d6a90039.chunk.js",
+    "static/media/logo.svg": "/CRAtestRepo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CRAtestRepo/index.html",
+    "main.f855e6bc.css.map": "/CRAtestRepo/static/css/main.f855e6bc.css.map",
+    "main.90a7b14a.js.map": "/CRAtestRepo/static/js/main.90a7b14a.js.map",
+    "453.d6a90039.chunk.js.map": "/CRAtestRepo/static/js/453.d6a90039.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.90a7b14a.js"
+  ]
+}
